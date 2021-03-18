@@ -136,7 +136,7 @@ def inicializa_letras_acertadas(palavra):
 
 def imprime_mensagem_abertura():
     print("*********************************")
-    print("***Bem Vindo Aoooo jogo da Forca!***")
+    print("***Bem Vindo A000 jogo da Forca!***")
     print("*********************************")
 
 def carrega_palavra_secreta():
